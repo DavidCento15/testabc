@@ -1,5 +1,5 @@
 # 1 - Introduction to GitHub Actions
-In this lab you will update and run your first workflow. This is an additional comment for lab 1
+In this lab you will update and run your first workflow. This is an additional comment for lab 1 now that actions are updated.
 > Duration: 5-10 minutes
 
 References:
